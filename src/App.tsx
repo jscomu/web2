@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          배우자 React
+          배우자 React 리액트
         </a>
       </header>
     </div>
